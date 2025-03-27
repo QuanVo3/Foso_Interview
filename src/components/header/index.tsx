@@ -103,7 +103,7 @@ const Header = () => {
           {navLinks.map((link, index) =>
             link.dropdown ? (
               <Menu key={index} as="div" className="relative inline-block">
-                <Menu.Button className="p-2 body-medium-medium font-raleway flex items-center gap-2 text-gray-700 hover:text-blue-600">
+                <Menu.Button className="p-2 body-medium-medium font-raleway flex items-center gap-2 text-gray-700 hover:text-body-primary">
                   {link.label} <Iconly name="ChevronDown" />
                 </Menu.Button>
                 <Transition
@@ -138,8 +138,8 @@ const Header = () => {
                 href={link.href}
                 className={`p-2 body-medium-medium font-raleway ${
                   pathname.startsWith(link.href)
-                    ? "text-blue-600 font-bold"
-                    : "text-gray-700 hover:text-blue-600"
+                    ? "text-body-primary font-bold"
+                    : "text-gray-700 hover:text-body-primary "
                 }`}
               >
                 {link.label}
