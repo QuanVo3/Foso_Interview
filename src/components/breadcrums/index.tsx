@@ -1,10 +1,12 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
 "use client";
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useTranslation } from "react-i18next";
 
-const Breadcrumbs = ({ className }) => {
+const Breadcrumbs = ({ className }: { className: any }) => {
   const pathname = usePathname();
   const { t } = useTranslation();
 
