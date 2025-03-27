@@ -13,8 +13,8 @@ const SearchBox = () => {
         placeholder="Tìm kiếm bài viết"
         className="w-full h-full body-large-medium outline-none focus:ring-0 focus:outline-none text-body-secondary"
       />
-      <button className="flex items-center justify-center bg-[#15AA7A] rounded-xl h-12 w-12 flex-none">
-        <Iconly name="Search" size={24} className="text-white" />
+      <button className="flex items-center justify-center bg-[#15AA7A] rounded-xl h-12 w-12 flex-none text-white">
+        <Iconly name="Search" size={24} />
       </button>
     </div>
   );
