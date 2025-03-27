@@ -6,7 +6,7 @@ interface LazyImageProps {
   src: any;
   height?: number | string;
   width?: number | string;
-  effect?: string;
+  effect?: "blur";
   alt?: string;
   className?: string;
   style?: object;
