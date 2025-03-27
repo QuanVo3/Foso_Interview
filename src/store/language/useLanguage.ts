@@ -1,6 +1,11 @@
 import { create } from "zustand";
 
-const useLanguage = create((set) => ({
+interface LanguageStore {
+    language: string;
+    setLanguage: (lang: string) => void;
+}
+
+const useLanguage = create<LanguageStore>((set) => ({
     language: typeof window !== "undefined" ? localStorage.getItem("language") || "VI" : "VI",
     setLanguage: (lang: string) => {
         if (typeof window !== "undefined") {
