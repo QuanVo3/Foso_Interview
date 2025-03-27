@@ -3,7 +3,6 @@
 import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { usePathname } from "next/navigation";
-import { useRouter } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
 import { Menu, Transition } from "@headlessui/react";
