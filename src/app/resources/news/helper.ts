@@ -8,7 +8,7 @@ export const data = [{
     "created_at": "2024-11-26T21:32:25+07:00",
     "slug": "tai-sao-bom-quan-trong-trong-quan-ly-san-xuat",
     "xid": "59bxn2rO",
-    "image_url": "https:\/\/aimini-upload.sgp1.cdn.digitaloceanspaces.com\/news\/412144495_316992581247956_2732814825340095346_n_6a574351e8.jpg",
+    "image_url": "https://i.imgur.com/1jbvbta.jpeg",
 
     "news_category": {
         "name": "Tin t\u1ee9c - S\u1ef1 ki\u1ec7n",
@@ -26,7 +26,7 @@ export const data = [{
     "created_at": "2024-11-26T21:32:25+07:00",
     "slug": "tai-sao-bom-quan-trong-trong-quan-ly-san-xuat",
     "xid": "59bxn2rO",
-    "image_url": "https:\/\/aimini-upload.sgp1.cdn.digitaloceanspaces.com\/news\/412144495_316992581247956_2732814825340095346_n_6a574351e8.jpg",
+    "image_url": "https://i.imgur.com/1jbvbta.jpeg",
 
     "news_category": {
         "name": "Tin t\u1ee9c - S\u1ef1 ki\u1ec7n",
@@ -44,7 +44,7 @@ export const data = [{
     "created_at": "2024-11-26T21:32:25+07:00",
     "slug": "tai-sao-bom-quan-trong-trong-quan-ly-san-xuat",
     "xid": "59bxn2rO",
-    "image_url": "https:\/\/aimini-upload.sgp1.cdn.digitaloceanspaces.com\/news\/412144495_316992581247956_2732814825340095346_n_6a574351e8.jpg",
+    "image_url": "https://i.imgur.com/1jbvbta.jpeg",
 
     "news_category": {
         "name": "Tin t\u1ee9c - S\u1ef1 ki\u1ec7n",
@@ -62,7 +62,7 @@ export const data = [{
     "created_at": "2024-11-26T21:32:25+07:00",
     "slug": "tai-sao-bom-quan-trong-trong-quan-ly-san-xuat",
     "xid": "59bxn2rO",
-    "image_url": "https:\/\/aimini-upload.sgp1.cdn.digitaloceanspaces.com\/news\/412144495_316992581247956_2732814825340095346_n_6a574351e8.jpg",
+    "image_url": "https://i.imgur.com/1jbvbta.jpeg",
 
     "news_category": {
         "name": "Tin t\u1ee9c - S\u1ef1 ki\u1ec7n",
@@ -80,7 +80,7 @@ export const data = [{
     "created_at": "2024-11-26T21:32:25+07:00",
     "slug": "tai-sao-bom-quan-trong-trong-quan-ly-san-xuat",
     "xid": "59bxn2rO",
-    "image_url": "https:\/\/aimini-upload.sgp1.cdn.digitaloceanspaces.com\/news\/412144495_316992581247956_2732814825340095346_n_6a574351e8.jpg",
+    "image_url": "https://i.imgur.com/1jbvbta.jpeg",
 
     "news_category": {
         "name": "Tin t\u1ee9c - S\u1ef1 ki\u1ec7n",
@@ -98,7 +98,7 @@ export const data = [{
     "created_at": "2024-11-26T21:32:25+07:00",
     "slug": "tai-sao-bom-quan-trong-trong-quan-ly-san-xuat",
     "xid": "59bxn2rO",
-    "image_url": "https:\/\/aimini-upload.sgp1.cdn.digitaloceanspaces.com\/news\/412144495_316992581247956_2732814825340095346_n_6a574351e8.jpg",
+    "image_url": "https://i.imgur.com/1jbvbta.jpeg",
 
     "news_category": {
         "name": "Tin t\u1ee9c - S\u1ef1 ki\u1ec7n",
@@ -116,7 +116,7 @@ export const data = [{
     "created_at": "2024-11-26T21:32:25+07:00",
     "slug": "tai-sao-bom-quan-trong-trong-quan-ly-san-xuat",
     "xid": "59bxn2rO",
-    "image_url": "https:\/\/aimini-upload.sgp1.cdn.digitaloceanspaces.com\/news\/412144495_316992581247956_2732814825340095346_n_6a574351e8.jpg",
+    "image_url": "https://i.imgur.com/1jbvbta.jpeg",
 
     "news_category": {
         "name": "Tin t\u1ee9c - S\u1ef1 ki\u1ec7n",
@@ -134,7 +134,7 @@ export const data = [{
     "created_at": "2024-11-26T21:32:25+07:00",
     "slug": "tai-sao-bom-quan-trong-trong-quan-ly-san-xuat",
     "xid": "59bxn2rO",
-    "image_url": "https:\/\/aimini-upload.sgp1.cdn.digitaloceanspaces.com\/news\/412144495_316992581247956_2732814825340095346_n_6a574351e8.jpg",
+    "image_url": "https://i.imgur.com/1jbvbta.jpeg",
 
     "news_category": {
         "name": "Tin t\u1ee9c - S\u1ef1 ki\u1ec7n",
@@ -152,7 +152,7 @@ export const data = [{
     "created_at": "2024-11-26T21:32:25+07:00",
     "slug": "tai-sao-bom-quan-trong-trong-quan-ly-san-xuat",
     "xid": "59bxn2rO",
-    "image_url": "https:\/\/aimini-upload.sgp1.cdn.digitaloceanspaces.com\/news\/412144495_316992581247956_2732814825340095346_n_6a574351e8.jpg",
+    "image_url": "https://i.imgur.com/1jbvbta.jpeg",
 
     "news_category": {
         "name": "Tin t\u1ee9c - S\u1ef1 ki\u1ec7n",
@@ -170,7 +170,7 @@ export const data = [{
     "created_at": "2024-11-26T21:32:25+07:00",
     "slug": "tai-sao-bom-quan-trong-trong-quan-ly-san-xuat",
     "xid": "59bxn2rO",
-    "image_url": "https:\/\/aimini-upload.sgp1.cdn.digitaloceanspaces.com\/news\/412144495_316992581247956_2732814825340095346_n_6a574351e8.jpg",
+    "image_url": "https://i.imgur.com/1jbvbta.jpeg",
 
     "news_category": {
         "name": "Tin t\u1ee9c - S\u1ef1 ki\u1ec7n",
@@ -188,7 +188,7 @@ export const data = [{
     "created_at": "2024-11-26T21:32:25+07:00",
     "slug": "tai-sao-bom-quan-trong-trong-quan-ly-san-xuat",
     "xid": "59bxn2rO",
-    "image_url": "https:\/\/aimini-upload.sgp1.cdn.digitaloceanspaces.com\/news\/412144495_316992581247956_2732814825340095346_n_6a574351e8.jpg",
+    "image_url": "https://i.imgur.com/1jbvbta.jpeg",
 
     "news_category": {
         "name": "Tin t\u1ee9c - S\u1ef1 ki\u1ec7n",
@@ -206,7 +206,7 @@ export const data = [{
     "created_at": "2024-11-26T21:32:25+07:00",
     "slug": "tai-sao-bom-quan-trong-trong-quan-ly-san-xuat",
     "xid": "59bxn2rO",
-    "image_url": "https:\/\/aimini-upload.sgp1.cdn.digitaloceanspaces.com\/news\/412144495_316992581247956_2732814825340095346_n_6a574351e8.jpg",
+    "image_url": "https://i.imgur.com/1jbvbta.jpeg",
 
     "news_category": {
         "name": "Tin t\u1ee9c - S\u1ef1 ki\u1ec7n",
@@ -224,7 +224,7 @@ export const data = [{
     "created_at": "2024-11-26T21:32:25+07:00",
     "slug": "tai-sao-bom-quan-trong-trong-quan-ly-san-xuat",
     "xid": "59bxn2rO",
-    "image_url": "https:\/\/aimini-upload.sgp1.cdn.digitaloceanspaces.com\/news\/412144495_316992581247956_2732814825340095346_n_6a574351e8.jpg",
+    "image_url": "https://i.imgur.com/1jbvbta.jpeg",
 
     "news_category": {
         "name": "Tin t\u1ee9c - S\u1ef1 ki\u1ec7n",
@@ -242,7 +242,7 @@ export const data = [{
     "created_at": "2024-11-26T21:32:25+07:00",
     "slug": "tai-sao-bom-quan-trong-trong-quan-ly-san-xuat",
     "xid": "59bxn2rO",
-    "image_url": "https:\/\/aimini-upload.sgp1.cdn.digitaloceanspaces.com\/news\/412144495_316992581247956_2732814825340095346_n_6a574351e8.jpg",
+    "image_url": "https://i.imgur.com/1jbvbta.jpeg",
 
     "news_category": {
         "name": "Tin t\u1ee9c - S\u1ef1 ki\u1ec7n",
@@ -260,7 +260,7 @@ export const data = [{
     "created_at": "2024-11-26T21:32:25+07:00",
     "slug": "tai-sao-bom-quan-trong-trong-quan-ly-san-xuat",
     "xid": "59bxn2rO",
-    "image_url": "https:\/\/aimini-upload.sgp1.cdn.digitaloceanspaces.com\/news\/412144495_316992581247956_2732814825340095346_n_6a574351e8.jpg",
+    "image_url": "https://i.imgur.com/1jbvbta.jpeg",
 
     "news_category": {
         "name": "Tin t\u1ee9c - S\u1ef1 ki\u1ec7n",
