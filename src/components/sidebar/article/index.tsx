@@ -38,7 +38,7 @@ const TableOfContents = ({
   }, [headings]);
 
   return (
-    <div className="bg-gray-100 p-4 rounded-lg">
+    <div className="bg-[#F9FBFC] p-4 rounded-lg">
       <ul className="space-y-2">
         {headings.map((heading) => {
           const isSubItem = !Number.isInteger(heading.index);
@@ -48,9 +48,7 @@ const TableOfContents = ({
             <li
               key={heading.id}
               className={`text-sm flex items-center transition-all duration-200 ${
-                isActive
-                  ? "text-[#10805B] font-bold  "
-                  : "text-gray-800"
+                isActive ? "text-[#10805B] font-bold  " : "text-gray-800"
               }`}
               style={{ marginLeft: isSubItem ? "1rem" : "0rem" }}
             >
